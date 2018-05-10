@@ -41,7 +41,9 @@ module.exports = () => (
   <div>
     <br />
     <div>
-      <span>{"hi everyone! i'm always goofing off on the internet."}</span>
+      <span>{"hi everyone! i am hrfmmymt."}</span>
+      <br />
+      <span>{"i'm always goofing off on the internet."}</span>
     </div>
     <br />
     <SelectInput items={items} onSelect={handleSelect} />
